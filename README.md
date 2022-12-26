@@ -1,4 +1,6 @@
-We were unable to make our backend run under https, SSL.
+Backend Github: https://github.com/krish1000/EECS4413-Backend
+
+We were unable to make our backend run under https, SSL. (AWS Elastic BeanStalk
 Instructions:
 Download and install node.js from https://nodejs.org/en/download/ if you don't already have it.
 Download as zip file from our github link with title EECS4413_Project, in main branch.
